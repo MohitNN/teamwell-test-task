@@ -1,9 +1,9 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import EmployeesList from './components/EmployeesList.vue'
 </script>
 
 <template>
-  <HelloWorld msg="Vite + Vue" />
+  <EmployeesList msg="Vite + Vue" />
 </template>
 
 <style scoped>
